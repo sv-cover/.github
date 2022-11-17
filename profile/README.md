@@ -1,16 +1,16 @@
 Hi there 👋
 
-#🙋‍♀️ A short introduction
+# 🙋‍♀️ A short introduction
 
 
-#🌈 Contribution guidelines - how can the community get involved?
-
-
-
-#👩‍💻 Useful resources
+# 🌈 Contribution guidelines - how can the community get involved?
 
 
 
-#🍿 Fun facts
+# 👩‍💻 Useful resources
+
+
+
+# 🍿 Fun facts
 
 
